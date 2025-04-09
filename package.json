@@ -1,5 +1,5 @@
 {
-  "name": "duck-weather-webhook",
+  "name": "duckweather",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
